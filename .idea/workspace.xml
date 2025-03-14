@@ -5,20 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35bf856e-fe2a-4398-bbc3-ccf99c77e087" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/model/res3net2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/res3net_k533.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/res3net_light_l4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/resnet32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submission.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visual.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/res3net.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/res3net2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/res3net_light_l4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/res3netpre.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/resnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/resnet32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_res3net_200.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_res3netk533_200.pth" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res3net_200/model_res3net_200.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res3net_200/stats2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resnet_200/model_resnet_200.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resnet_200/stats2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/submission.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
     <envs>
@@ -34,6 +51,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yuitoryu&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yuitoryu/cifar_proj.git&quot;,
+    &quot;accountId&quot;: &quot;27cb8401-3280-4449-9dbb-4a3e6d41bcd0&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -49,7 +78,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/seer2/Desktop/大学/研一 第二学期/deep learning/cifar_proj/model&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/seer2/Desktop/大学/研一 第二学期/deep learning/cifar_proj/stats&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -126,6 +155,20 @@
       <workItem from="1741742179216" duration="5113000" />
       <workItem from="1741764888248" duration="806000" />
       <workItem from="1741765917764" duration="14000" />
+      <workItem from="1741798873834" duration="4112000" />
+      <workItem from="1741806886260" duration="969000" />
+      <workItem from="1741811797730" duration="5317000" />
+      <workItem from="1741886987221" duration="338000" />
+      <workItem from="1741887332659" duration="344000" />
+      <workItem from="1741888455342" duration="1191000" />
+      <workItem from="1741890745103" duration="5611000" />
+      <workItem from="1741902893430" duration="439000" />
+      <workItem from="1741912908079" duration="1386000" />
+      <workItem from="1741915581774" duration="196000" />
+      <workItem from="1741922755464" duration="622000" />
+      <workItem from="1741925087855" duration="2705000" />
+      <workItem from="1741973005754" duration="6361000" />
+      <workItem from="1741986207042" duration="187000" />
     </task>
     <servers />
   </component>
